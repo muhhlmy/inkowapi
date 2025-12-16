@@ -657,12 +657,12 @@ useHead({
     {
       name: "description",
       content:
-        "Induk Koperasi Wanita Pengusaha Indonesia (INKOWAPI) - Organisasi koperasi wanita dengan 128 koperasi anggota dan 1.7 juta member. Bergabunglah dengan jaringan pengusaha wanita terbesar di Indonesia.",
+        "INKOWAPI adalah Induk Koperasi Wanita Pengusaha Indonesia yang menaungi 128 Koperasi Wanita dengan 1 Juta anggota UMKM. Bergabung dan perluas jaringan bisnis Anda sekarang!",
     },
     {
       name: "keywords",
       content:
-        "INKOWAPI, Koperasi Wanita, Pengusaha Wanita, Indonesia, Organisasi Perdagangan",
+        "INKOWAPI, Induk Koperasi Wanita, Pengusaha Indonesia, Koperasi Wanita, UMKM, Juta Anggota, Jaringan Bisnis, Koperasi Indonesia",
     },
     {
       property: "og:title",
@@ -675,7 +675,7 @@ useHead({
     },
     {
       property: "og:image",
-      content: "/images/og-image.png",
+      content: "https://inkowapi.nusacode.id/images/inkowapi.png",
     },
     {
       property: "og:url",
@@ -709,8 +709,8 @@ const jsonLdOrganization = {
   "@type": "Organization",
   name: "INKOWAPI",
   description: "Induk Koperasi Wanita Pengusaha Indonesia",
-  url: "https://inkowapi.or.id",
-  logo: "https://inkowapi.or.id/images/inkowapi.png",
+  url: "https://inkowapi.nusacode.id",
+  logo: "https://inkowapi.nusacode.id/images/inkowapi.png",
   image: "/images/og-image.png",
   foundingDate: "1999",
   sameAs: [],
