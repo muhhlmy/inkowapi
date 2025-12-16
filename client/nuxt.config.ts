@@ -23,16 +23,16 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "INKOWAPI adalah organisasi perdagangan yang fokus pada pengembangan bisnis dan industri di Indonesia. Kami menyediakan informasi, program kerja, dan platform untuk member kami.",
+            "INKOWAPI adalah Induk Koperasi Wanita Pengusaha Indonesia yang menaungi 128 Koperasi Wanita dengan 1 Juta anggota UMKM. Bergabung dan perluas jaringan bisnis Anda sekarang!",
         },
         {
           name: "keywords",
           content:
-            "INKOWAPI, perdagangan, industri, bisnis, organisasi, Indonesia",
+            "INKOWAPI, Induk Koperasi Wanita, Pengusaha Indonesia, Koperasi Wanita, UMKM, Juta Anggota, Jaringan Bisnis, Koperasi Indonesia",
         },
         {
           name: "author",
-          content: "INKOWAPI",
+          content: "Sharmila Yahya",
         },
         {
           name: "viewport",
@@ -62,7 +62,7 @@ export default defineNuxtConfig({
         },
         {
           property: "og:image",
-          content: "/images/og-image.svg",
+          content: "https://inkowapi.nusacode.id/images/inkowapi.png",
         },
         // Twitter
         {
