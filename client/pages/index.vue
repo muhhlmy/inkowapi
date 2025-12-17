@@ -475,20 +475,38 @@
 
             <ul class="space-y-3 text-left">
               <li class="flex items-start gap-3">
-                <span class="text-emerald-700 mt-1">•</span>
+                <span class="text-emerald-700 mt-1"
+                  ><img
+                    width="18"
+                    src="/images/Vector.png"
+                    alt="checkmark"
+                    srcset=""
+                /></span>
                 <span class="text-gray-700 text-sm lg:text-base"
                   >Memudahkan pendataan anggota</span
                 >
               </li>
               <li class="flex items-start gap-3">
-                <span class="text-emerald-700 mt-1">•</span>
+                <span class="text-emerald-700 mt-1"
+                  ><img
+                    width="18"
+                    src="/images/Vector.png"
+                    alt="checkmark"
+                    srcset=""
+                /></span>
                 <span class="text-gray-700 text-sm lg:text-base"
                   >Kartu anggota INKOWAPI yang dibuat secara otomatis saat
                   pendaftaran</span
                 >
               </li>
               <li class="flex items-start gap-3">
-                <span class="text-emerald-700 mt-1">•</span>
+                <span class="text-emerald-700 mt-1"
+                  ><img
+                    width="18"
+                    src="/images/Vector.png"
+                    alt="checkmark"
+                    srcset=""
+                /></span>
                 <span class="text-gray-700 text-sm lg:text-base"
                   >Dapat mencetak kartu anggota sendiri</span
                 >
